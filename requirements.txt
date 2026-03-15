@@ -1,0 +1,11 @@
+fastapi[standard]
+uvicorn
+mlflow
+datasets
+scikit-learn
+pandas
+numpy
+python-dotenv
+boto3
+pydantic
+httpx
